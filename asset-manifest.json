@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kuutoe/static/css/main.1a793aea.css",
+    "main.js": "/kuutoe/static/js/main.a9d0bd32.js",
+    "static/js/787.7f2d0d0f.chunk.js": "/kuutoe/static/js/787.7f2d0d0f.chunk.js",
+    "static/media/img-3.jpg": "/kuutoe/static/media/img-3.d8bd9b928d4c5baa65ec.jpg",
+    "static/media/img-7.jpg": "/kuutoe/static/media/img-7.5048730476b431b8fa13.jpg",
+    "static/media/img-5.jpg": "/kuutoe/static/media/img-5.424d8730a1915b8fbbd4.jpg",
+    "static/media/main-img-home.jpg": "/kuutoe/static/media/main-img-home.53b86f681ec99c98ac2d.jpg",
+    "static/media/img-1.jpeg": "/kuutoe/static/media/img-1.7f71feb9e7ec40f6f22d.jpeg",
+    "static/media/img-4.jpeg": "/kuutoe/static/media/img-4.c3e0f76269522fa3c814.jpeg",
+    "static/media/img-6.jpg": "/kuutoe/static/media/img-6.c1d107c1ca8776521c46.jpg",
+    "static/media/logo.jpg": "/kuutoe/static/media/logo.96f6b6b28fdf2273aab7.jpg",
+    "index.html": "/kuutoe/index.html",
+    "main.1a793aea.css.map": "/kuutoe/static/css/main.1a793aea.css.map",
+    "main.a9d0bd32.js.map": "/kuutoe/static/js/main.a9d0bd32.js.map",
+    "787.7f2d0d0f.chunk.js.map": "/kuutoe/static/js/787.7f2d0d0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a793aea.css",
+    "static/js/main.a9d0bd32.js"
+  ]
+}
