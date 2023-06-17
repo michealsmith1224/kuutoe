@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kuutoe/static/css/main.1a793aea.css",
-    "main.js": "/kuutoe/static/js/main.a9d0bd32.js",
+    "main.js": "/kuutoe/static/js/main.639eaf9d.js",
     "static/js/787.7f2d0d0f.chunk.js": "/kuutoe/static/js/787.7f2d0d0f.chunk.js",
     "static/media/img-3.jpg": "/kuutoe/static/media/img-3.d8bd9b928d4c5baa65ec.jpg",
     "static/media/img-7.jpg": "/kuutoe/static/media/img-7.5048730476b431b8fa13.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo.jpg": "/kuutoe/static/media/logo.96f6b6b28fdf2273aab7.jpg",
     "index.html": "/kuutoe/index.html",
     "main.1a793aea.css.map": "/kuutoe/static/css/main.1a793aea.css.map",
-    "main.a9d0bd32.js.map": "/kuutoe/static/js/main.a9d0bd32.js.map",
+    "main.639eaf9d.js.map": "/kuutoe/static/js/main.639eaf9d.js.map",
     "787.7f2d0d0f.chunk.js.map": "/kuutoe/static/js/787.7f2d0d0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a793aea.css",
-    "static/js/main.a9d0bd32.js"
+    "static/js/main.639eaf9d.js"
   ]
 }
