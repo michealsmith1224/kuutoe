@@ -1,0 +1,24 @@
+button {
+  border: none !important;
+  outline: none;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  padding: 6px 12px;
+  font-weight: 600;
+  display: flex;
+  align-items: center !important;
+  justify-content: center !important;
+}
+button i {
+  font-size: 1rem !important;
+  margin: 0 !important;
+}
+
+#icons {
+  margin: 0 2px !important;
+}
+
+@media screen and (max-width: 767px) {
+  #icons {
+    font-size: 1.2rem !important;
+  }
+}
